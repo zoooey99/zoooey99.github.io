@@ -36,7 +36,8 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! This is the website I've made for myself!
+  hero-title: Zoey Lee <br> D1 Athlete, Co-President, Developer
+
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -128,7 +129,7 @@ education:
       organization: "IMG Academy",
     }
   - {
-      name: B.S. Computer Science, B.S. Mathematics, B.S.C. Immersive Media, Minor in Exercise Physiology ,
+      name: B.S. Computer Science<br>B.S. Mathematics<br>B.S.C. Immersive Media <br>Minor in Exercise Physiology,
       date: "2022 - Present",
       organization: "University of Miami",
     }
