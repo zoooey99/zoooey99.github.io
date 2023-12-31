@@ -9,7 +9,7 @@ description: personal website/portflio
 email: zjl24@miami.edu
 phone: 
 address: University of Miami
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2023 Designed & Developed by [Zoey Lee](https://zoeylee.me/about) using [Themefisher](https://themefisher.com/) template
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,8 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Zoey <br> Student, Athlete, Developer, Co-President
+  hero-title: Zoey Lee <br> D1 Athlete, Co-President, Developer
+
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,10 +49,10 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: I'm a D1 Athlete on the Women's Soccer team at the University of Miami I am also pursuing a B.S. in Computer Science, B.S. in Mathematics, and B.S.C in Immersive Media.
+blurb: I’m a college student pursuing 3 majors, D1 athlete, Co-Founder and Co-President of a Professional Fraternity, and developer (figuring out my area of expertise lol). 
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: about me
 
 # About Page
 
@@ -99,22 +100,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Athlete,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "always and forever",
+      organization: "currently ~ UMiami",
     }
   - {
-      name: UX & UI Designer,
+      name: Co-Founder & Co-President,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "July 2023 - Present",
+      organization: "Kappa Theta Pi - Sigma",
     }
   - {
-      name: Senior UI Designer,
+      name: 360° Videographer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Oct 2023 - Present",
+      organization: "VESL",
     }
 
 #-------------------------------
@@ -123,47 +124,46 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: High School Diploma,
+      date: "2022",
+      organization: "IMG Academy",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: B.S. Computer Science<br>B.S. Mathematics<br>B.S.C. Immersive Media <br>Minor in Exercise Physiology,
+      date: "2022 - Present",
+      organization: "University of Miami",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: stuff i've read :),
+      date: "all of them",
+      organization: "--",
     }
   - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: \"Analyze Data with R\" Skill Path,
+      date: "Dec 2023",
+      organization: "Codecademy",
     }
 
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: 
 services:
   - {
-      name: UI Design,
+      name: Resume,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "click here to view",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Skills,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
+      description: "leadership, data science, 360° Film-making",
     }
   - {
-      name: Interaction Design,
+      name: CV,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "click here to view",
       active: ,# Add true to select section
     }
 
