@@ -40,10 +40,10 @@ hero:
 
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/zoeylee123/" }
+  - { icon: "ti-github", link: "https://github.com/zoooey99" }
   - { icon: "ti-instagram", link: "https://www.instagram.com/zoeylee.11/" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-youtube", link: "https://www.youtube.com/channel/UC7wPtbAp6nn3VJ1dbh5bwbA" }
 
 #-------------------------------
 # About (Section and Page)
