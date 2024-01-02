@@ -152,17 +152,21 @@ services:
   - {
       name: Resume,
       icon: ti-palette,
-      description: "click here to view",
+      url: assets/images/01:02:24.pdf,
+      description: click here to view,
       active: ,# Add true to select section
     }
   - {
       name: Skills,
       icon: ti-vector,
+      url: ,
       description: "leadership, data science, 360° Film-making",
+      active: ,# Add true to select section
     }
   - {
       name: CV,
       icon: ti-panel,
+      url: ,
       description: "click here to view",
       active: ,# Add true to select section
     }
