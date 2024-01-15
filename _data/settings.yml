@@ -3,11 +3,11 @@
 # General Site Settings
 
 title: Zoey Lee
-logo:
+logo: favicon.png
 author: Zoey Lee
 description: personal website/portflio
-email: zjl24@miami.edu
-phone: 
+email: zoeylee@miami.edu
+phone: [Zoey Lee](https://www.linkedin.com/in/zoeylee123)
 address: University of Miami
 copyright: Copyright &copy; 2023 Designed & Developed by [Zoey Lee](https://zoeylee.me/about) using [Themefisher](https://themefisher.com/) template
 
@@ -304,4 +304,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: zoeylee@miami.edu
