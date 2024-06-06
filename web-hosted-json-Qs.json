@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the fastest marine animal?",
+        "answers": [
+          "Sailfish",
+          "Dolphin",
+          "Shark",
+          "Tuna"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Whiche marine animal is known for having a symbiotic relationship with clownfish?",
+        "answers": [
+          "Sea Turtle",
+          "Anemone",
+          "Jellyfish",
+          "Coral"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the primary food source for blue whales?",
+        "answers": [
+          "Plankton",
+          "Small Fish",
+          "Krill",
+          "Seaweed"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which of these marine animals is a mammal?",
+        "answers": [
+          "Shark",
+          "Octopus",
+          "Sea Horse",
+          "Dolphin"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What adaptation helps marine animals like seals survive in cold water?",
+        "answers": [
+          "Blubber",
+          "Gills",
+          "Fur",
+          "Scales"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+  
