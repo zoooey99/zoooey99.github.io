@@ -124,7 +124,7 @@ export default function Home() {
                 <span className="sr-only">LinkedIn</span>
               </Button>
             </Link>
-            <Link href="https://instagram.com/zoeylee" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.instagram.com/zoeylee.11/" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="ghost"
                 size="icon"
@@ -134,7 +134,7 @@ export default function Home() {
                 <span className="sr-only">Instagram</span>
               </Button>
             </Link>
-            <Link href="https://github.com/zoeylee" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/zoooey99" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="ghost"
                 size="icon"
@@ -144,7 +144,7 @@ export default function Home() {
                 <span className="sr-only">GitHub</span>
               </Button>
             </Link>
-            <Link href="https://strava.com/athletes/zoeylee" target="_blank" rel="noopener noreferrer">
+            <Link href="https://strava.app.link/SgigeqsmzRb" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="ghost"
                 size="icon"
@@ -356,29 +356,24 @@ export default function Home() {
                 <span className="block mb-2 text-xl font-medium bg-gradient-to-r from-rose-400 via-amber-400 to-rose-300 bg-clip-text text-transparent pb-1">
                   Always Growing, Always Building, Always Moving.
                 </span>
-                I'm a technologist, hacker, and former D1 athlete who thrives on learning, building, and competition. My
-                passion lies at the intersection of technology and impact, where I constantly push boundaries and
-                explore new frontiers.
+                I'm a technologist, hacker, and former D1 athlete who thrives on learning, building, and competition. My passion lies at the intersection of technology and impact, where I constantly push boundaries and explore new frontiers.
               </p>
               <p className="text-lg text-gray-300">
-                My background in competitive athletics has instilled in me a disciplined approach to problem-solving and
-                a relentless drive to improve. As a leader in Kappa Theta Pi tech fraternity, I've mentored emerging
-                developers and organized hackathons that bring innovative ideas to life.
-              </p>
+              As co-founder and co-president of KTP’s Sigma chapter, I helped grow it from 2 to 75 members. Later, as President of KTP Nationals, I led its expansion from 15 to nearly 30 chapters. I’ve built and led teams at every level—scaling organizations, launching startups, and even raising $17K in grants for a previous venture.              </p>
               <p className="text-lg text-gray-300">
-                When I'm not coding or brainstorming startup ideas, you'll find me running trails, exploring new cities,
-                or diving into the latest tech research papers.
+              Life is an adventure, and I embrace it fully. When I’m not coding or brainstorming startups, you’ll find me at a hackathon, running trails, or exploring new cities. I love learning, I love building, and I’m always chasing the next challenge.
               </p>
               <div className="flex flex-wrap gap-4 pt-4">
-                <StatsCard title="GitHub Contributions" value="247" subtitle="Last 30 Days" />
-                <StatsCard title="Miles Run" value="312" subtitle="2025 (so far)" />
+                <StatsCard title="GitHub Contributions" value="258" subtitle="Past 365 Days" />
+                <StatsCard title="Miles Run" value="131" subtitle="2025 (so far)" />
               </div>
             </div>
             <div className="grid grid-cols-2 gap-4">
+
               <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300"
-                  alt="Zoey at a hackathon"
+                  src="/images/professional-headshot.jpg"
+                  alt="Zoey Lee Professional Headshot"
                   width={300}
                   height={300}
                   className="object-cover w-full h-full"
@@ -386,8 +381,8 @@ export default function Home() {
               </div>
               <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300"
-                  alt="Zoey running"
+                  src="/images/hubs-presentation.jpg"
+                  alt="Zoey presenting HubsXR for USTAAR Grant"
                   width={300}
                   height={300}
                   className="object-cover w-full h-full"
@@ -395,8 +390,8 @@ export default function Home() {
               </div>
               <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300"
-                  alt="Zoey with KTP team"
+                  src="/images/nyu-presentation.jpeg"
+                  alt="Zoey presenting with Patrick Farrell project at NYU Hacks"
                   width={300}
                   height={300}
                   className="object-cover w-full h-full"
@@ -404,13 +399,33 @@ export default function Home() {
               </div>
               <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
                 <Image
-                  src="/placeholder.svg?height=300&width=300"
-                  alt="Zoey at a tech conference"
+                  src="/images/zoey-mia-slay.jpeg"
+                  alt="Zoey with KTP Co-founder Mia Uy"
                   width={300}
                   height={300}
                   className="object-cover w-full h-full"
                 />
               </div>
+              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
+                <Image
+                  src="/images/soccer-arms-crossed.jpg"
+                  alt="Zoey with KTP Co-founder Mia Uy"
+                  width={300}
+                  height={300}
+                  className="object-cover w-full h-full"
+                />
+              </div>
+              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
+                <Image
+                  src="/images/american-social.jpg"
+                  alt="Zoey with KTP Co-founder Mia Uy"
+                  width={300}
+                  height={300}
+                  className="object-cover w-full h-full"
+                />
+              </div>
+
+
             </div>
           </div>
         </div>
@@ -440,13 +455,13 @@ export default function Home() {
               something impactful, let's talk.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link href="https://linkedin.com/in/zoeylee" target="_blank" rel="noopener noreferrer">
+              <Link href="https://linkedin.com/in/zoeylee123" target="_blank" rel="noopener noreferrer">
                 <Button className="bg-gradient-to-r from-rose-500 to-amber-500 hover:from-rose-600 hover:to-amber-600 text-white shadow-lg hover:shadow-rose-500/25 transition-all duration-300">
                   <Linkedin className="w-5 h-5 mr-2" />
                   LinkedIn
                 </Button>
               </Link>
-              <Link href="mailto:zoey@example.com">
+              <Link href="mailto:zoeylee@miami.edu">
                 <Button
                   variant="outline"
                   className="border-gray-700 text-gray-300 hover:bg-gray-800 hover:text-white shadow-lg hover:shadow-gray-700/25 transition-all duration-300"
@@ -455,7 +470,7 @@ export default function Home() {
                   Email Me
                 </Button>
               </Link>
-              <Link href="https://github.com/zoeylee" target="_blank" rel="noopener noreferrer">
+              {/* <Link href="https://github.com/zoeylee" target="_blank" rel="noopener noreferrer">
                 <Button
                   variant="outline"
                   className="border-gray-700 text-gray-300 hover:bg-gray-800 hover:text-white shadow-lg hover:shadow-gray-700/25 transition-all duration-300"
@@ -463,7 +478,7 @@ export default function Home() {
                   <Github className="w-5 h-5 mr-2" />
                   GitHub
                 </Button>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
@@ -471,7 +486,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="px-4 py-8 text-center text-gray-500">
-        <p>© {new Date().getFullYear()} Zoey Lee. Always growing, always building, always moving.</p>
+        <p>© {new Date().getFullYear()} Zoey Lee. Hackathon Project Portfolio.</p>
       </footer>
     </main>
   )
