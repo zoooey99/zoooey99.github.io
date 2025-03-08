@@ -361,54 +361,15 @@ export default function Home() {
               <p className="text-lg text-gray-300">
               As co-founder and co-president of KTP’s Sigma chapter, I helped grow it from 2 to 75 members. Later, as President of KTP Nationals, I led its expansion from 15 to nearly 30 chapters. I’ve built and led teams at every level—scaling organizations, launching startups, and even raising $17K in grants for a previous venture.              </p>
               <p className="text-lg text-gray-300">
-              Life is an adventure, and I embrace it fully. When I’m not coding or brainstorming startups, you’ll find me at a hackathon, running trails, or exploring new cities. I love learning, I love building, and I’m always chasing the next challenge.
+              Life is an adventure, and I embrace it fully. When I’m not brainstorming or building startups, you’ll find me at a hackathon, running trails, or exploring new cities. I love learning, I love building, and I’m always chasing the next challenge.
               </p>
               <div className="flex flex-wrap gap-4 pt-4">
                 <StatsCard title="GitHub Contributions" value="258" subtitle="Past 365 Days" />
                 <StatsCard title="Miles Run" value="131" subtitle="2025 (so far)" />
               </div>
-            </div>
-            <div className="grid grid-cols-2 gap-4">
-
-              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
+              {/* <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
                 <Image
-                  src="/images/professional-headshot.jpg"
-                  alt="Zoey Lee Professional Headshot"
-                  width={300}
-                  height={300}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
-                <Image
-                  src="/images/hubs-presentation.jpg"
-                  alt="Zoey presenting HubsXR for USTAAR Grant"
-                  width={300}
-                  height={300}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
-                <Image
-                  src="/images/nyu-presentation.jpeg"
-                  alt="Zoey presenting with Patrick Farrell project at NYU Hacks"
-                  width={300}
-                  height={300}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
-                <Image
-                  src="/images/zoey-mia-slay.jpeg"
-                  alt="Zoey with KTP Co-founder Mia Uy"
-                  width={300}
-                  height={300}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
-                <Image
-                  src="/images/soccer-arms-crossed.jpg"
+                  src="/images/utd-presentation.jpeg"
                   alt="Zoey with KTP Co-founder Mia Uy"
                   width={300}
                   height={300}
@@ -423,7 +384,37 @@ export default function Home() {
                   height={300}
                   className="object-cover w-full h-full"
                 />
+              </div>*/}
+            </div> 
+            <div className="grid gap-4">
+
+              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
+                <Image
+                  src="/images/professional-headshot.jpg"
+                  alt="Zoey Lee Professional Headshot"
+                  width={300}
+                  height={300}
+                  className="object-cover w-full h-full"
+                />
               </div>
+              {/* <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
+                <Image
+                  src="/images/hubs-presentation.jpg"
+                  alt="Zoey presenting HubsXR for USTAAR Grant"
+                  width={300}
+                  height={300}
+                  className="object-cover w-full h-full"
+                />
+              </div> */}
+              <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
+                <Image
+                  src="/images/soccer-arms-crossed.jpg"
+                  alt="Zoey with KTP Co-founder Mia Uy"
+                  width={300}
+                  height={300}
+                  className="object-cover w-full h-full"
+                />
+              </div> 
 
 
             </div>
