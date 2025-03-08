@@ -84,10 +84,7 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-gray-950 text-gray-200 overflow-hidden">
-      {/* Background Texture */}
-      <div className="fixed inset-0 z-0 opacity-40 pointer-events-none">
-        <div className="absolute inset-0 bg-[url('/placeholder.svg?height=300&width=300')] bg-repeat opacity-5"></div>
-      </div>
+      
 
       {/* Floating Gradient Orbs */}
       <div className="fixed inset-0 z-0 opacity-30 pointer-events-none overflow-hidden">
@@ -356,15 +353,15 @@ export default function Home() {
                 <span className="block mb-2 text-xl font-medium bg-gradient-to-r from-rose-400 via-amber-400 to-rose-300 bg-clip-text text-transparent pb-1">
                   Always Growing, Always Building, Always Moving.
                 </span>
-                I'm a technologist, hacker, and former D1 athlete who thrives on learning, building, and competition. My passion lies at the intersection of technology and impact, where I constantly push boundaries and explore new frontiers.
+                I'm a hacker, entrepreneur, and former D1 athlete who thrives on learning, building, and competition. My passion lies at the intersection of technology and impact, where I constantly push boundaries and explore new frontiers.
               </p>
               <p className="text-lg text-gray-300">
-              As co-founder and co-president of KTP’s Sigma chapter, I helped grow it from 2 to 75 members. Later, as President of KTP Nationals, I led its expansion from 15 to nearly 30 chapters. I’ve built and led teams at every level—scaling organizations, launching startups, and even raising $17K in grants for a previous venture.              </p>
+              As co-founder and co-president of KTP’s Sigma chapter, I helped grow it from 2 to {">"}70 members. Later, as President of KTP Nationals, I led its expansion from 15 to nearly 30 chapters nationwide. I’ve built and led teams at every level—scaling organizations, launching startups, and even raising $17K in grants for a previous venture.              </p>
               <p className="text-lg text-gray-300">
               Life is an adventure, and I embrace it fully. When I’m not brainstorming or building startups, you’ll find me at a hackathon, running trails, or exploring new cities. I love learning, I love building, and I’m always chasing the next challenge.
               </p>
               <div className="flex flex-wrap gap-4 pt-4">
-                <StatsCard title="GitHub Contributions" value="258" subtitle="Past 365 Days" />
+                <StatsCard title="GitHub Contributions" value="258" subtitle="Past Year" />
                 <StatsCard title="Miles Run" value="131" subtitle="2025 (so far)" />
               </div>
               {/* <div className="rounded-lg overflow-hidden transform transition-transform hover:scale-[1.02] shadow-lg">
